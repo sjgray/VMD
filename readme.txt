@@ -13,6 +13,7 @@ he would build it, and he did. He came up with a circuit which he
 demonstrated at the VCF-MW show in September 2016. I am attempting to
 design a PCB or two to implement this internally.
 
+
 STATUS
 
 The project is functional. This version is the initial proof of concept
@@ -24,6 +25,17 @@ I was hoping to improve the design, and/or adapt it to some specific LED
 module to make connections easier, but the project seems to have been
 put on the back-burner. So, I am releasing the schematics and gerbers
 as-is in the hopes that it might be useful.
+
+
+FOLDERS
+
+VMD.......... Main Visual Memory Display board
+CPU-Tap...... 6502/6510 breakout board with VMD connectors.
+		tabs can be removed if you just need the breakout pins.
+MemoryMaps... Memory Maps for CBM computers using 16x16 matrix organization
+
+
+WEB
 
 You can find more info on the project webpage:
 
