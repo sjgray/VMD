@@ -39,6 +39,7 @@ WEB
 
 You can find more info on the project webpage:
 
-http://www.6502.org/users/sjgray/projects/vmd/index.html
+http://www.cbmsteve.ca/
+http://www.cbmsteve.ca/vmd/index.html
 
 Steve
